@@ -1,0 +1,34 @@
+
+
+#dog {
+  background-color: red;
+  width: 30%;
+  padding: 1%;
+  float: left;
+  border-radius: 10px;
+  font-style: italic;
+}
+
+#cat {
+  background-color: yellow;
+  width: 30%;
+  padding: 1%;
+  float: left;
+  font-family: sans-serif;
+}
+
+#bunny {
+  background-color: green;
+  width: 30%;
+  padding: 1%;
+  float: left;
+}
+
+.animals img {
+  width: 90%;
+  border-radius: 10px;
+}
+
+.animals p {
+  font-family: fantasy;
+}
